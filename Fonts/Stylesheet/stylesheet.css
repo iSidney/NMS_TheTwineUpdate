@@ -1,0 +1,49 @@
+/*! Fair use licensing. 
+Geonsm web font : http://www.no-mans-sky.com/elk/wp-content/themes/nomanssky/fonts/geonms-webfont.ttf
+NMS-Glyphs font : https://nomanssky.gamepedia.com/media/hydra/fonts/NMS-Glyphs-Mono.ttf
+Roboto : https://www.fontsquirrel.com/fonts/roboto*/
+
+
+
+@font-face {
+  font-family: 'GeosansLight-NMS';
+  src: url('GeosansLight-NMS.woff') format('woff'),
+       url('GeosansLight-NMS.ttf') format('truetype'),
+       url('GeosansLight-NMS.svg#GeosansLight-NMS') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'geonms-webfont';
+  src: url('geonms-webfont.eot');
+  src: url('geonms-webfont.woff2') format('woff2'),
+       url('geonms-webfont.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NMS-Glyphs-Tight';
+  src: url('NMS-Glyphs-Tight.eot');
+  src: url('NMS-Glyphs-Tight.woff2') format('woff2'),
+       url('NMS-Glyphs-Tight.woff') format('woff'),
+       url('NMS-Glyphs-Tight.ttf') format('truetype'),
+       url('NMS-Glyphs-Tight.svg#NMS-Glyphs-Tight') format('svg'),
+       url('NMS-Glyphs-Tight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('Roboto-Regular-webfont.eot');
+    src: url('Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-Regular-webfont.woff2') format('woff2'),
+         url('Roboto-Regular-webfont.woff') format('woff'),
+         url('Roboto-Regular-webfont.ttf') format('truetype'),
+         url('Roboto-Regular-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
